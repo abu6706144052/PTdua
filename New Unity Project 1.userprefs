@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\Downloads\New Unity Project\Assets\Script\onHit.cs">
+    <Files>
+      <File FileName="..\..\Downloads\New Unity Project\Assets\Script\onHit.cs" Line="18" Column="1" />
+      <File FileName="..\..\Downloads\New Unity Project\Assets\Script\dataloader.cs" Line="1" Column="1" />
+      <File FileName="..\..\Downloads\New Unity Project\Assets\Script\MainGameScript.cs" Line="23" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
